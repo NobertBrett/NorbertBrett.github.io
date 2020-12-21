@@ -43,4 +43,4 @@ It definitely wasn't the year I was hopping, but we always have to look forward 
 -I will definitely try to achieve some of my goals for 2021 , expand my knowledge and extent my network and meet new people
 
 
-See you in 2020.
+See you in 2021.
