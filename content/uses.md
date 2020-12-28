@@ -61,22 +61,28 @@ The Net Ninja ,Dev Ed , Tech With Tim , plus many more
 
 ### Frontend Masters (some of my favorites)
 
-#### From Sarah Drasner
+### From Sarah Drasner
 
 -[Introduction to Vue 3](https://frontendmasters.com/courses/vue-3/) 
+
 -[Design for Developers](https://frontendmasters.com/courses/design-for-developers/)
+
 -[SVG Essentials & Animation, v2](https://frontendmasters.com/courses/svg-essentials-animation/)
+
 -[Building Applications with Vue & Nuxt](https://frontendmasters.com/courses/vue-nuxt-apps/)
 
-#### From Bryan Holt
+### From Bryan Holt
 
 -[Complete Intro to Databases](https://frontendmasters.com/courses/databases/)
+
 -[Four Semesters of Computer Science in 5 Hours](https://frontendmasters.com/courses/computer-science/)
+
 -[Complete Intro to React, v5](https://frontendmasters.com/courses/complete-react-v5/)
 
-#### From Mike North
+### From Mike North
 
 -[Sass Fundamentals](https://frontendmasters.com/courses/sass/)
+
 -[TypeScript 3 Fundamentals, v2](https://frontendmasters.com/courses/typescript-v2/)
 
 
