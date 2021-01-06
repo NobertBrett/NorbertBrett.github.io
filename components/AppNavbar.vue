@@ -12,7 +12,7 @@ export default {}
       >
         <img
           class="navbar-logo-image"
-          src="~/assets/Norbert.png"
+          src="~/assets/logo.png"
           alt="Norbert Logo"
         />
         Norbert Brett
