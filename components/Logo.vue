@@ -1,6 +1,6 @@
 <template>
   <img
-    src="~/assets/Norbert.png"
+    src="~/assets/logo.png"
     alt="Norbert Brett Logo"
     :class="$style.logo"
   />
