@@ -1,19 +1,9 @@
-<script>
-import Logo from '~/components/Logo.vue'
-
-export default {
-  components: {
-    Logo
-  }
-}
-</script>
 
 <template>
   <div class="container mx-auto text-center">
     <div>
-      <logo class="mt-20" />
       <h1 class="title">
-        A warm welcome to my Blog!
+        Hi my name is Norbert Brett and I this is my personal blog
       </h1>
     </div>
   </div>
