@@ -9,23 +9,24 @@ For those who want to know what Hardware , Software and Resources I'm using.
 ## Hardware
 
 - Primary Laptop:
-  - Hp Pavilion 14", 8 GB RAM, and 1 TB hard drive , looking to upgrade my RAM to 32 shortly
+  - MacBook Air 2020, M1 Chip , 8 GB RAM and 256 SSD. 
+  - Hp Pavilion 14", 16 GB RAM, and 1 TB hard drive .
 
 ## Editor & Terminal
 
-- [Visual Studio Code](https://code.visualstudio.com/) is my code editor of choice 
+  - [Visual Studio Code](https://code.visualstudio.com/) is my code editor of choice 
   -But I also love[WebStorm](https://www.jetbrains.com/webstorm/) which I been using lately
   -For Python projects I use [PyCharm](https://www.jetbrains.com/pycharm/)
   - [Night Owl Theme](https://github.com/sdras/night-owl-vscode-theme) has been my theme of choice for VsCode. 
   - Dracula theme for Webstorm
  
-- [Git Bash](https://git-scm.com/) is my terminal of choice for now, but I have been eyeing [hyper](https://hyper.is/) for some time as well.
+  - [Git Bash](https://git-scm.com/) is my terminal of choice for now, but I have been eyeing [hyper](https://hyper.is/) for some time as well.
   
 
 ## Other software 
 
 - [Figma](https://www.figma.com/downloads/) 
-- [Inkscape](https://inkscape.org/release/inkscape-1.0.1/)
+- [Afinity Photo, Publisher and Designer](https://affinity.serif.com/en-gb/)
 - [GitHub Desktop](https://desktop.github.com/)
 - [Kite](https://www.kite.com/)
 
