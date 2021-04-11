@@ -8,7 +8,7 @@ For those who want to know what Hardware , Software and Resources I'm using.
 
 ## Hardware
 
-- Primary Laptop:
+- My Laptops:
   - MacBook Air 2020, M1 Chip , 8 GB RAM and 256 SSD. 
   - Hp Pavilion 14", 16 GB RAM, and 1 TB hard drive .
 
