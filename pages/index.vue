@@ -26,7 +26,7 @@
 
 .title {
   @apply block;
-  @apply mt-3;
+  @apply mt-40;
   color: $c-navy;
   font-family: $ff-sans;
   @apply font-semibold;
