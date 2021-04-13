@@ -3,8 +3,9 @@
   <div class="container mx-auto text-center">
     <div>
       <h1 class="title">
-        Hi my name is Norbert Brett and I this is my personal blog
+        Hi my name is <span class ="hero-name">Norbert Brett</span>
       </h1>
+      <p> And this is my blog</p>
     </div>
   </div>
 </template>
@@ -33,4 +34,6 @@
   @apply text-5xl;
   letter-spacing: 1px;
 }
+.hero-name{
+  color:#33fe9f
 </style>
