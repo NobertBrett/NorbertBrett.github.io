@@ -5,7 +5,7 @@
       <h1 class="title">
         Hi my name is <span class ="hero-name">Norbert Brett</span>
       </h1>
-      <p> And this is my blog</p>
+      <h3> And this is my blog</h3>
     </div>
   </div>
 </template>
