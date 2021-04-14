@@ -35,5 +35,5 @@
   letter-spacing: 1px;
 }
 .hero-name{
-  color:#33fe9f
+  color:#33fe9f}
 </style>
